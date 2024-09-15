@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FinancialHealthDashboardApplication {
 
 	public static void main(String[] args) {
-		//comment 2
 		SpringApplication.run(FinancialHealthDashboardApplication.class, args);
 	}
 
